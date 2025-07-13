@@ -1,9 +1,9 @@
 export const SITE = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   website: 'https://astro-chiri.netlify.app/', // Site domain
-  title: 'CHIRI', // Site title
-  author: '3ASH', // Author name
-  description: 'Minimal blog built by Astro', // Site description
+  title: 'Tamarind Swann', // Site title
+  author: 'Tamarind Swann', // Author name
+  description: 'Portfolio', // Site description
   language: 'en-US', // Default language
 
   // GENERAL SETTINGS ////////////////////////////////////////////////////////////////////////////////////
